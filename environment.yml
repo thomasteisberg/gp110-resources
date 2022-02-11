@@ -1,0 +1,14 @@
+name: gp110
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - python=3.9
+  - sympy
+  - pymc3
+  - seaborn
+  - ipykernel
+  - mkl-service
+  - arviz=0.11.1
